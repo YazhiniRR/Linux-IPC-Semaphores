@@ -122,7 +122,7 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
-<img width="914" height="843" alt="Screenshot 2025-10-14 114315" src="https://github.com/user-attachments/assets/e9a7300e-3565-4848-a401-e55349ba485d" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/65347872-8347-4a66-bf08-93b6f0fc88ad" />
 <img width="900" height="183" alt="Screenshot 2025-10-14 114411" src="https://github.com/user-attachments/assets/68d27d7d-95b6-4bcb-952e-f5925931ade7" />
 
 
